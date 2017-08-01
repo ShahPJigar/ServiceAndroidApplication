@@ -5,11 +5,11 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:label="Service.com"
+        android:theme="@android:style/Theme.Material" >
         <activity
             android:name="com.delta.listviews.ListViewActivity"
-            android:label="@string/app_name" >
+            android:label="Service.com" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
